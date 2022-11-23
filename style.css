@@ -14,3 +14,25 @@ form input{
          color: white;
          fonte-weight: bold;
 }
+}	
+table {
+
+background: #b0d7ce;
+
+}
+tr {
+
+background: #555555;
+
+color: white;
+
+font-weight: bold;
+
+}
+td {
+
+border: 1px solid #000000;
+
+border-color: #96f75b;
+
+}
